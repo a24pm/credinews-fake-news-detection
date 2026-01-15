@@ -17,3 +17,16 @@ CrediNews is a machine learning–based system that detects fake news articles a
 - GitHub
 
 ## Project Structure
+app/ - prediction logic
+notebooks/ - data preprocessing & training
+models/ - trained models (ignored)
+data/ - datasets (ignored)
+
+
+
+notebooks/01_preprocessing.ipynb
+notebooks/02_model_training.ipynb
+
+requirements.txt
+.gitignore
+
